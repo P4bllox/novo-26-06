@@ -1,1 +1,1 @@
-# novo-26-06
+# prova pensamento computacional 
